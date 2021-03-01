@@ -6,6 +6,8 @@ public class DemoGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is created to check the project under Git");
+
+System.out.println("This is created to check the project under Git for secound update");
 	}
 
 }
